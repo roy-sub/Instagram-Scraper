@@ -320,6 +320,14 @@ if __name__ == "__main__":
 
 ```
 
+# Loom Videos -
+
+* For an overview of the codebase workflow, please refer to this concise Loom video [Codebase Workflow](https://www.loom.com/share/c02a85f100d543428e28c5064ec1fc43?sid=f6447e40-977d-4b2f-84a1-bf2e6c06d487). It's recommended to watch it at `1.5X speed` for optimal viewing.
+
+* Refer to this loom video [Scraping Instagram](https://www.loom.com/share/dd05623383074c33927ea119ca8a181c?sid=115c519f-bb6b-467c-bb87-1ff96d0354e1) at `1.5X speed` to see the script in action scraping [alexandrapaigebrown](https://www.instagram.com/alexandrapaigebrown/) Instagram Profile.
+
+* And finally refer to this loom video [Result Visualization](https://www.loom.com/share/9b97619a698040cba7e5f6dbde486442?sid=9e99fd49-ac0e-418f-a26e-5f2f00073c69) to see the resultant `JSON File`
+
 # Conclusion
 
 In conclusion, this Instagram Scraper provides a comprehensive solution for extracting valuable information from Instagram profiles. With just a few inputs, you can gather image URLs, video URLs, captions, follower counts, following counts, post counts, actual names, bios, and website links. The scraper is easy to set up and use, with detailed instructions provided in this README.
